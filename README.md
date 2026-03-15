@@ -1,4 +1,4 @@
-# SSD1306 OLED Display via CP2112 on Ubuntu 24.04
+# SSD1306 OLED Display via CP2112 on Ubuntu 24.04 and above
 
 ## Hardware
 
