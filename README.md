@@ -1,4 +1,5 @@
 # SSD1306 OLED Display via CP2112 on Ubuntu 24.04 and above
+## Instructions for installation into Proxmox as well
 
 ## Hardware
 
